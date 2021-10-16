@@ -20,7 +20,7 @@ Milestone 3: Feedforward Control - Uses a FeedbackControl function to calculate 
 Open a terminal in the under the project's directory and run `python final.py`.
 
 ## Result (Click Photo to Watch on YouTube)
-The file `final.py` was run, and its generated `scene6.csv` file was thrown into V-REP to yield the glorious result below.
+The file `final.py` was run, and its generated `scene6.csv` file was thrown into V-REP to yield the glorious result below. [Click here for video.](https://www.youtube.com/watch?v=XvYdUPLrBC4)
 [![VREP](https://i.ytimg.com/vi/XvYdUPLrBC4/maxresdefault.jpg)](https://youtu.be/XvYdUPLrBC4 "r2p3a")
 
 ### Error
